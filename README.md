@@ -1,4 +1,4 @@
-# Cracking-The-Machine-Learning-Interview
+# Cracking The Machine Learning Interview
 This repository is created as complementary to our Machine Learning Book **Cracking The Machine Learning Interview**. Our book is available worldwide on 
 [Amazon](https://www.amazon.com/Cracking-Machine-Learning-Interview/dp/B07K4Y6T3J).
 
