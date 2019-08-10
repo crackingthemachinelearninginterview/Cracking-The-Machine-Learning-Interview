@@ -19,3 +19,16 @@ Language used : **Python**
 Framework used: **Scikit-Learn**
 
 Do check out our [book](https://www.amazon.com/Cracking-Machine-Learning-Interview/dp/B07K4Y6T3J) and share your feedback. You can email us at crackingthemlinterview@gmail.com.
+
+
+The repository is structured as follows:
+* General Machine Learning Questions
+* Natural Language Processing
+* Supervised Learning
+    * Classification
+        * Artificial Neural Networks
+        * Decision Trees
+        * K-Nearest Neighbors
+        * Logistic Regression
+        * Support Vector Machines
+    * Regression
