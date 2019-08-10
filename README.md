@@ -32,3 +32,5 @@ The repository is structured as follows:
         * Logistic Regression
         * Support Vector Machines
     * Regression
+* Unsupervised Learning
+    * Clustering
